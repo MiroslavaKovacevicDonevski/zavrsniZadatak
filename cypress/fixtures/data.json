@@ -1,0 +1,19 @@
+{
+    "registerData" : {
+        "firstName" : "MiraCy",
+        "lastName" : "Cypress",
+        "email" : "mira555@mailinator.com",
+        "password": "Abc1234567",
+        "confirmPass": "Abc1234567",
+        "terms": 1
+    },
+    "loginData" : {
+        "email" : "mira555@mailinator.com",
+        "password": "Abc1234567"
+    },
+
+    "createGradeData": {
+        "name": "Najrazred",
+        "professor": "102"
+    }
+}

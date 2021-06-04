@@ -1,0 +1,10 @@
+{
+    "baseUrl" : "https://gradebook.vivifyideas.com/",
+    
+     "env" : {
+        "userName": "mira@mailinator.com",
+        "password": "A1234567"
+    }
+}
+
+
